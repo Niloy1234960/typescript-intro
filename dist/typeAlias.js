@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 const babul = {
     id: 324,
     name: "babul",
@@ -21,4 +20,3 @@ function addNumber(num1, num2) {
 }
 addNumber(20, 20);
 // addNumber(10,5);
-//# sourceMappingURL=typeAlias.js.map

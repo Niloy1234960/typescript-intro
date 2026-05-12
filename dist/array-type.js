@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 // let friends: string[]; 
 // or... 
 let friends;
@@ -10,4 +9,3 @@ console.log(friends);
 // multiple array types
 let multiplearray;
 multiplearray = [23, 42, "Kichu ekta", 49];
-//# sourceMappingURL=array-type.js.map
